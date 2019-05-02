@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\bin\Debug\Circles Radius Area Circumference.exe.config
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\bin\Debug\Circles Radius Area Circumference.exe
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\bin\Debug\Circles Radius Area Circumference.pdb
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\obj\Debug\Circles Radius Area Circumference.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\obj\Debug\Circles Radius Area Circumference.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\obj\Debug\Circles Radius Area Circumference.exe
+C:\Users\lisaa\source\repos\Circles Radius Area Circumference\Circles Radius Area Circumference\obj\Debug\Circles Radius Area Circumference.pdb
